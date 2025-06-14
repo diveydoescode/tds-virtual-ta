@@ -117,6 +117,7 @@ async def root():
 @app.post("/")
 async def root_post():
     return {
-        "message": "This is the TDS Virtual TA root. Use POST /api/ for questions."
+        "answer": "This is the TDS Virtual TA root. Please send your question to /api/ instead.",
+        "links": []
     }
 
