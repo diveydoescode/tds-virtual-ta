@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+*.log
+discourse_data/
+knowledge_chunks.jsonl
+embeddings.jsonl

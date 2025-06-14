@@ -1,0 +1,277 @@
+{
+  "title": "Tools in Data Science - May 2025",
+  "course_intro": "[Tools in Data Science](https://study.iitm.ac.in/ds/course_pages/BSSE2002.html) is a practical diploma level data science course at IIT Madras that teaches\npopular tools for sourcing data, transforming it, analyzing it, communicating these as visual stories, and deploying them in production.",
+  "course_link": {
+    "text": "Tools in Data Science",
+    "url": "https://study.iitm.ac.in/ds/course_pages/BSSE2002.html"
+  },
+  "details_sections": [
+    {
+      "heading": "This course exposes you to real-life tools",
+      "content": "Courses teach you programming and data science. From statistics to algorithms to writing Python code to building models.\n\nBut one critical subject that's rarely covered is: what tools should I pick and how do I become proficient in them?\n\nThese tools might not help your CV much. But they will make things easier in real life. For example, at school:\n\n- You learn from pristine datasets. But in the industry, you'll have to scrape them yourself.\n- You learn how to train models. But soon, you'll just pick something from HuggingFace.\n- You learn to write a log parser over weeks. Instead, your boss writes a `sed` + `grep` script in minutes.\n\n[![](https://imgs.xkcd.com/comics/lisp.jpg) \"We lost the documentation on quantum mechanics. You'll have to decode the regexes yourself.\"](https://explainxkcd.com/224/)\n\nIn this course, we've curated the most important tools people use in data science.\n\nLearn them well. You'll be a **_lot_ more productive** than your peers."
+    },
+    {
+      "heading": "This course is quite hard",
+      "content": "Here's students' feedback:\n\n- [2 out of 5 students in the Jan 2025 batch failed](https://discourse.onlinedegree.iitm.ac.in/t/when-should-i-take-tools-in-data-science/173268)\n- It _used_ to be an easy course until 2024.\n  [#](https://discourse.onlinedegree.iitm.ac.in/t/difficulty-rating-for-diploma-subjects-based-on-students-opinion/61194)\n  [#](https://discourse.onlinedegree.iitm.ac.in/t/difficulty-rating-for-diploma-subjects-2-0-based-on-student-ratings-and-my-experience/85681)\n  [#](https://discourse.onlinedegree.iitm.ac.in/t/what-should-i-take-next/44291/6)\n- Now it's hard and covers more. Take it in your last semester if possible.\n  [#](https://discourse.onlinedegree.iitm.ac.in/t/diploma-course-feedback-t32024-and-course-selection-t12025-thread/160032/45)\n  [#](https://discourse.onlinedegree.iitm.ac.in/t/2024-t1-diploma-level-feedback-and-course-selection-for-may-2024-term/127856/60)\n  [#](https://discourse.onlinedegree.iitm.ac.in/t/2024-t2-diploma-level-feedback-and-course-selection-for-september-2024-term/144976/62?u=s.anand)\n- Plan extra time. It takes more time than typical 3-credit courses.\n  [#](https://discourse.onlinedegree.iitm.ac.in/t/concerns-regarding-unfair-grading-practices-for-tds-project-2/160611/11)\n  [#](https://discourse.onlinedegree.iitm.ac.in/t/diploma-level-course-combo-suggestion/158460/4)\n  [#](https://discourse.onlinedegree.iitm.ac.in/t/diploma-level-course-combo-suggestion/158460/7)\n- LLMs grade you -- unpredictably.\n  [#](https://discourse.onlinedegree.iitm.ac.in/t/concerns-regarding-unfair-grading-practices-for-tds-project-2/160611/10)\n  [#](https://discourse.onlinedegree.iitm.ac.in/t/wrong-marks-in-project-2/160355/9)\n- The ROE is hard.\n  [#](https://discourse.onlinedegree.iitm.ac.in/t/is-it-fair-to-consider-20-weightage-of-such-exam-which-is-impossible-to-solve-in-given-time-i-e-roe/141413/10)\n\n**[Take Graded assignment 1](https://exam.sanand.workers.dev/tds-2025-05-ga1) to check if you're ready for this course.** Please drop this course (do it in a later term) if you score low. It'll be too tough for you now."
+    },
+    {
+      "heading": "But it's probably worth it.",
+      "content": "Here's students' feedback:\n\n- [Course experience and farewell post](https://discourse.onlinedegree.iitm.ac.in/t/course-experience-and-farewell-post/173247)"
+    },
+    {
+      "heading": "Programming skills are a pre-requisite",
+      "content": "You need a _good_ understanding of Python, JavaScript, HTML, HTTP, Excel, and data science concepts.\n\n**But isn't this a data science course?** Yes. Good data scientists are good programmers. Data scientists don't just analyze data or train models. They source data, clean it, transform it, visualize it, deploy it, and automate the whole process.\n\nIn some organizations, some of this work is done by others (e.g. data engineers, IT teams, etc.). But wherever you are, _some_ of the time, you need to write code for all of this yourself.\n\nThis course teaches you tools that will make you more productive. But you _do_ need programming to learn many of them."
+    },
+    {
+      "heading": "If you passed, don't enroll again",
+      "content": "The course is public, so you can always audit it.\n\nAlso, registering again for the course [does not improve marks much](https://discourse.onlinedegree.iitm.ac.in/t/why-you-should-almost-never-register-for-tds-improvement-if-you-have-passed-it/173625)."
+    }
+  ],
+  "modules": [
+    {
+      "title": "Development Tools",
+      "link": "development-tools.md",
+      "purpose": "build"
+    },
+    {
+      "title": "Deployment Tools",
+      "link": "deployment-tools.md",
+      "purpose": "publish"
+    },
+    {
+      "title": "Large Language Models",
+      "link": "large-language-models.md",
+      "purpose": "[Data Sourcing](data-sourcing.md)"
+    },
+    {
+      "title": "Data Preparation",
+      "link": "data-preparation.md",
+      "purpose": "[Data Analysis](data-analysis.md)"
+    },
+    {
+      "title": "Data Visualization",
+      "link": "data-visualization.md",
+      "purpose": "preponed"
+    },
+    {
+      "title": "Seek Notifications",
+      "link": "https://seek.onlinedegree.iitm.ac.in/",
+      "purpose": "[Your email](https://mail.google.com/)"
+    },
+    {
+      "title": "TDS Discourse",
+      "link": "https://discourse.onlinedegree.iitm.ac.in/c/courses/tds-kb/34",
+      "purpose": "Faculty"
+    }
+  ],
+  "grading_table": [
+    {
+      "Exam": "P1: Project 1",
+      "Type": "Online open-Internet",
+      "Weight": "20%",
+      "Release Date": "Fri 16 May 2025",
+      "Submission Date": "Sat 14 Jun 2025"
+    },
+    {
+      "Exam": "ROE: Remote Online Exam",
+      "Type": "Online open-Internet MCQ",
+      "Weight": "20%",
+      "Release Date": "Sun 20 Jul 2025 13:00",
+      "Submission Date": "Sun 20 Jul 2025 13:45"
+    },
+    {
+      "Exam": "P2: Project 2",
+      "Type": "Online open-Internet",
+      "Weight": "20%",
+      "Release Date": "Fri 11 Jul 2025",
+      "Submission Date": "Fri 8 Aug 2025"
+    },
+    {
+      "Exam": "F: Final end-term",
+      "Type": "In-person, no internet",
+      "Weight": "25%",
+      "Release Date": "Sun 31 Aug 2025",
+      "Submission Date": "Sun 31 Aug 2025"
+    }
+  ],
+  "live_session_links": [],
+  "instructors": "",
+  "misc_links": [
+    {
+      "text": "Tools in Data Science",
+      "url": "https://study.iitm.ac.in/ds/course_pages/BSSE2002.html"
+    },
+    {
+      "text": "2 out of 5 students in the Jan 2025 batch failed",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/when-should-i-take-tools-in-data-science/173268"
+    },
+    {
+      "text": "#",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/difficulty-rating-for-diploma-subjects-based-on-students-opinion/61194"
+    },
+    {
+      "text": "#",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/difficulty-rating-for-diploma-subjects-2-0-based-on-student-ratings-and-my-experience/85681"
+    },
+    {
+      "text": "#",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/what-should-i-take-next/44291/6"
+    },
+    {
+      "text": "#",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/diploma-course-feedback-t32024-and-course-selection-t12025-thread/160032/45"
+    },
+    {
+      "text": "#",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/2024-t1-diploma-level-feedback-and-course-selection-for-may-2024-term/127856/60"
+    },
+    {
+      "text": "#",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/2024-t2-diploma-level-feedback-and-course-selection-for-september-2024-term/144976/62?u=s.anand"
+    },
+    {
+      "text": "#",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/concerns-regarding-unfair-grading-practices-for-tds-project-2/160611/11"
+    },
+    {
+      "text": "#",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/diploma-level-course-combo-suggestion/158460/4"
+    },
+    {
+      "text": "#",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/diploma-level-course-combo-suggestion/158460/7"
+    },
+    {
+      "text": "#",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/concerns-regarding-unfair-grading-practices-for-tds-project-2/160611/10"
+    },
+    {
+      "text": "#",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/wrong-marks-in-project-2/160355/9"
+    },
+    {
+      "text": "#",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/is-it-fair-to-consider-20-weightage-of-such-exam-which-is-impossible-to-solve-in-given-time-i-e-roe/141413/10"
+    },
+    {
+      "text": "Course experience and farewell post",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/course-experience-and-farewell-post/173247"
+    },
+    {
+      "text": "does not improve marks much",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/why-you-should-almost-never-register-for-tds-improvement-if-you-have-passed-it/173625"
+    },
+    {
+      "text": "commit history",
+      "url": "https://github.com/sanand0/tools-in-data-science-public/commits/tds-2025-01/"
+    },
+    {
+      "text": "enrolled students",
+      "url": "https://study.iitm.ac.in/ds/"
+    },
+    {
+      "text": "Discourse",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/c/courses/tds-kb/34"
+    },
+    {
+      "text": "TDS 2025 May Google Group",
+      "url": "https://groups.google.com/g/tds-2025-05"
+    },
+    {
+      "text": "What is the purpose of an impossible RoE exam?",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/whats-the-actual-purpose-of-impossible-roe-exam/99838/2"
+    },
+    {
+      "text": "previous bonus activities",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/tags/c/courses/tds-kb/34/bonus-marks"
+    },
+    {
+      "text": "Seek Notifications",
+      "url": "https://seek.onlinedegree.iitm.ac.in/"
+    },
+    {
+      "text": "seek.onlinedegree.iitm.ac.in",
+      "url": "https://seek.onlinedegree.iitm.ac.in/"
+    },
+    {
+      "text": "Your email",
+      "url": "https://mail.google.com/"
+    },
+    {
+      "text": "TDS Discourse",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/c/courses/tds-kb/34"
+    },
+    {
+      "text": "@s.anand",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/u/s.anand"
+    },
+    {
+      "text": "@carlton",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/u/carlton"
+    },
+    {
+      "text": "@iamprasna",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/u/iamprasna"
+    },
+    {
+      "text": "@Jivraj",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/u/jivraj"
+    },
+    {
+      "text": "@21f3002441",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/u/21f3002441"
+    },
+    {
+      "text": "@HritikRoshan_HRM",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/u/hritikroshan_hrm"
+    },
+    {
+      "text": "@Saransh_Saini",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/u/Saransh_Saini"
+    },
+    {
+      "text": "@Amit1",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/u/Amit1"
+    },
+    {
+      "text": "TDS: Discourse",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/c/courses/tds-kb/34"
+    },
+    {
+      "text": "IITM BS Degree Programme - Student Handbook",
+      "url": "https://docs.google.com/document/u/2/d/e/2PACX-1vRxGnnDCVAO3KX2CGtMIcJQuDrAasVk2JHbDxkjsGrTP5ShhZK8N6ZSPX89lexKx86QPAUswSzGLsOA/pub"
+    },
+    {
+      "text": "TDS: Public course page",
+      "url": "https://study.iitm.ac.in/ds/course_pages/BSSE2002.html"
+    },
+    {
+      "text": "TDS: Course files",
+      "url": "https://drive.google.com/drive/folders/1FE0YPAxcxMzZdjnp3FopuJCI3A2Vq6fC?usp=drive_link"
+    },
+    {
+      "text": "Grading Document - May 2025",
+      "url": "https://docs.google.com/document/u/3/d/e/2PACX-1vRKOWaLjxsts3qAM4h00EDvlB-GYRSPqqVXTfq3nGWFQBx91roxcU1qGv2ksS7jT4EQPNo8Rmr2zaE9/pub#h.2bn6wsx"
+    },
+    {
+      "text": "TDS: Course page - May 2025",
+      "url": "https://seek.onlinedegree.iitm.ac.in/courses/ns_25t2_se2002"
+    },
+    {
+      "text": "TDS: Announcement group - May 2025",
+      "url": "https://groups.google.com/a/study.iitm.ac.in/g/25t2_se2002-announce"
+    },
+    {
+      "text": "Back-end for configuring the lessons",
+      "url": "https://cb-prod.seek.study.iitm.ac.in/25t1_se2002/"
+    },
+    {
+      "text": "TDS: Course calendar - Jan 2025",
+      "url": "https://calendar.google.com/calendar/u/0/r?cid=Y19ib2Y3bnMxbDduNm84azA1dHA4YTlxNWIwZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t"
+    },
+    {
+      "text": "Grading Document - Jan 2025",
+      "url": "https://docs.google.com/document/d/e/2PACX-1vRBH1NuM3ML6MH5wfL2xPiPsiXV0waKlUUEj6C7LrHrARNUsAEA1sT2r7IHcFKi8hvQ45gSrREnFiTT/pub"
+    }
+  ]
+}
