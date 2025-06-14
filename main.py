@@ -98,3 +98,9 @@ async def virtual_ta(request: QueryRequest):
 
     except Exception as e:
         return {"answer": f"❌ Error: {str(e)}", "links": []}
+
+@app.get("/")
+async def root():
+    return {
+        "message": "TDS Virtual TA is running. Use POST /api/ to ask questions."
+    }
