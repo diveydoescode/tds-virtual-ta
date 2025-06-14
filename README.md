@@ -133,4 +133,8 @@ MIT License © 2025
 
 - OpenAI
 - IITM Online Degree Team
+<<<<<<< HEAD
 - s-anand / TDS course
+=======
+- s-anand / TDS course
+>>>>>>> 2ca1a4a (Update: added knowledge and embedding files)
