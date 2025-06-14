@@ -113,3 +113,10 @@ async def root():
     return {
         "message": "TDS Virtual TA is running. Use POST /api/ to ask questions."
     }
+
+@app.post("/")
+async def root_post():
+    return {
+        "message": "This is the TDS Virtual TA root. Use POST /api/ for questions."
+    }
+}
